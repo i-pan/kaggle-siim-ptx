@@ -1,0 +1,9 @@
+.
+./submit
+./etl
+./segment
+./segment/loss
+./segment/utils
+./segment/scripts
+./segment/model
+./segment/data
