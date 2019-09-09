@@ -7,6 +7,7 @@ conda install pytorch=1.1 torchvision cudatoolkit=10.0 -c pytorch
 
 # Install mmdetection
 git clone https://github.com/open-mmlab/mmdetection/
+cd mmdetection
 pip install Cython
 python setup.py develop
 # pip install -v -e .
