@@ -13,10 +13,9 @@
 - PyTorch 1.1
 
 ## Model Checkpoints 
-Download from Google Drive:
+Download from Kaggle:
 ```
-pip install gdown
-gdown https://drive.google.com/uc?id=16gi0uVYDgbN5k77TLDWX6s7zCpDZSSw-
+kaggle datasets download vaillant/siim-ptx-checkpoints
 ```
 
 Models should be unzipped into `./segment/checkpoints/` in order to run code as is. There should be 3 folders:
