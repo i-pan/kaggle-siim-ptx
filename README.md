@@ -13,6 +13,8 @@
 - PyTorch 1.1
 
 ## Model Checkpoints 
+_PLEASE NOTE: Some of the model checkpoints are unfortunately corrupted. Thus certain commands in the inference scripts will not work as intended. Training scripts are available to retrain all the models._
+
 Download from Kaggle:
 ```
 kaggle datasets download vaillant/siim-ptx-checkpoints
